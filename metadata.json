@@ -1,0 +1,6 @@
+{
+  "name": "Alphabet Learning Game",
+  "description": "An interactive, auditory, and gamified alphabet learning app for kids, featuring interactive letters, pronunciation, letter-tracing, and reward-based quiz games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
